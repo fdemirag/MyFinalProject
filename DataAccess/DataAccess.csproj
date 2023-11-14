@@ -9,9 +9,13 @@
   <ItemGroup>
     <None Remove="Abstract\" />
     <None Remove="Concrete\" />
+    <None Remove="Concrete\EntityFramework\" />
+    <None Remove="Concrete\InMemory\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Abstract\" />
     <Folder Include="Concrete\" />
+    <Folder Include="Concrete\EntityFramework\" />
+    <Folder Include="Concrete\InMemory\" />
   </ItemGroup>
 </Project>
