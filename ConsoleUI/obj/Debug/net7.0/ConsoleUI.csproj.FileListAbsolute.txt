@@ -1,0 +1,15 @@
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/bin/Debug/net7.0/ConsoleUI
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/bin/Debug/net7.0/ConsoleUI.deps.json
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/bin/Debug/net7.0/ConsoleUI.runtimeconfig.json
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/bin/Debug/net7.0/ConsoleUI.dll
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/bin/Debug/net7.0/ConsoleUI.pdb
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.AssemblyReference.cache
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/obj/Debug/net7.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfo.cs
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/obj/Debug/net7.0/ConsoleUI.dll
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/obj/Debug/net7.0/refint/ConsoleUI.dll
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/obj/Debug/net7.0/ConsoleUI.pdb
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/obj/Debug/net7.0/ConsoleUI.genruntimeconfig.cache
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/obj/Debug/net7.0/ref/ConsoleUI.dll
