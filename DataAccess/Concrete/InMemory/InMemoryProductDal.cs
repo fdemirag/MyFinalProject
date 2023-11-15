@@ -1,5 +1,4 @@
 ﻿using System;
-<<<<<<< HEAD
 using System.Linq.Expressions;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -59,15 +58,6 @@ namespace DataAccess.Concrete.InMemory
      
     }
 }
-=======
-namespace DataAccess.Concrete.InMemory
-{
-	public class InMemoryProductDal
-	{
-		public InMemoryProductDal()
-		{
-		}
-	}
-}
 
->>>>>>> refs/remotes/MyFinalProject/main
+
+
