@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "DataAccess >= 1.0.0",
+      "Entities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/fatihdemirag/.nuget/packages/": {}
@@ -31,7 +69,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/DataAccess/DataAccess.csproj": {
+              "projectPath": "/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/DataAccess/DataAccess.csproj"
+            },
+            "/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/Entities/Entities.csproj": {
+              "projectPath": "/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/Entities/Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
