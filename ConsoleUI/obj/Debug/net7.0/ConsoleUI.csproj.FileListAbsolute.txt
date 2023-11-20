@@ -67,7 +67,5 @@
 /Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/bin/Debug/net7.0/DataAccess.pdb
 /Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/bin/Debug/net7.0/Entities.pdb
 /Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CopyComplete
-/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/bin/Debug/net7.0/Npgsql.dll
-/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/bin/Debug/net7.0/Core.dll
 /Users/fatihdemirag/Desktop/CSharp/MyFinalProject/ConsoleUI/bin/Debug/net7.0/Core.pdb
