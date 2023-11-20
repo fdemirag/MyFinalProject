@@ -1,9 +1,8 @@
-﻿using System;
-using Entities.Abstract;
+﻿using Core.Entities;
 
 namespace Entities.Concrete
 {
-	public class Product:IEntity
+    public class Product:IEntity
 	{
 		public int ProductId { get; set; }
 		public int CategoryId { get; set; }
