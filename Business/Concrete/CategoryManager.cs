@@ -21,7 +21,7 @@ namespace Business.Concrete
 
         public Category GetById(int CategoryId)
         {
-            return _categoryDal.get(c => c.CategoryId == CategoryId);
+            return _categoryDal.Get(c => c.CategoryId == CategoryId);
         }
     }
 }
