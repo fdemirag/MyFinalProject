@@ -6,7 +6,7 @@ using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
 
-namespace DataAccess.Concrete
+namespace Business.Concrete
 {
     public class ProductManager : IProductService
         {
