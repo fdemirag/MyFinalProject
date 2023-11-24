@@ -77,3 +77,6 @@
 /Users/fatihdemirag/Desktop/CSharp/MyFinalProject/WebAPI/bin/Debug/net7.0/Core.pdb
 /Users/fatihdemirag/Desktop/CSharp/MyFinalProject/WebAPI/bin/Debug/net7.0/DataAccess.pdb
 /Users/fatihdemirag/Desktop/CSharp/MyFinalProject/WebAPI/bin/Debug/net7.0/Entities.pdb
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/WebAPI/bin/Debug/net7.0/Autofac.dll
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/WebAPI/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/WebAPI/bin/Debug/net7.0/Castle.Core.dll

@@ -11,7 +11,7 @@ namespace DataAccess.Concrete.EntityFramework
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost;Database=Northwind;User Id=sa;Password=reallyStrongPwd123;TrustServerCertificate=True; Encrypt=false");
+            optionsBuilder.UseSqlServer(@"Server=localhost;Database=northwind;User Id=sa;Password=reallyStrongPwd123;TrustServerCertificate=True; Encrypt=false");
 
             //Server=localhost,1433;Database=northwind;User Id=sa;Password=12345;
 
