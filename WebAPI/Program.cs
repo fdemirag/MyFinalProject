@@ -1,11 +1,6 @@
 ﻿using Autofac;
 using Autofac.Extensions.DependencyInjection;
-using Business.Abstract;
-using Business.Concrete;
 using Business.DependencyResolvers;
-using DataAccess.Abstract;
-using DataAccess.Concrete.EntityFramework;
-using Microsoft.AspNetCore.Hosting;
 
 internal class Program
 {
@@ -22,8 +17,8 @@ internal class Program
 
         // Add services to the container.
         builder.Services.AddControllers();
+         
 
-      
 
 
         //builder.Services.AddSingleton <IProductService,ProductManager>();

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4lCmxRxrL8L7RObGJ43DbH9sWW67ANqcYWPKMtXGjc7cgAoNp2qRK+IDpB3Tp2b9Mi+EhvyAWgY3qdmRw2hVng==",
+  "dgSpecHash": "OPFHQ/7sLBn1EzmqzVwr5cr6paPExJMQ3dmI2qPYCuUAMcdLVNb5MSd20TCvWPSuIn9Fgt5rQV0UQmRNz/Uhow==",
   "success": true,
   "projectFilePath": "/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/WebAPI/WebAPI.csproj",
   "expectedPackageFiles": [
     "/Users/fatihdemirag/.nuget/packages/autofac/7.0.0/autofac.7.0.0.nupkg.sha512",
-    "/Users/fatihdemirag/.nuget/packages/autofac.extensions.dependencyinjection/7.0.0/autofac.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/fatihdemirag/.nuget/packages/autofac.extensions.dependencyinjection/8.0.0/autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/autofac.extras.dynamicproxy/7.0.0/autofac.extras.dynamicproxy.7.0.0.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
