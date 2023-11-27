@@ -81,3 +81,4 @@
 /Users/fatihdemirag/Desktop/CSharp/MyFinalProject/WebAPI/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
 /Users/fatihdemirag/Desktop/CSharp/MyFinalProject/WebAPI/bin/Debug/net7.0/Castle.Core.dll
 /Users/fatihdemirag/Desktop/CSharp/MyFinalProject/WebAPI/bin/Debug/net7.0/Autofac.Extensions.DependencyInjection.dll
+/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/WebAPI/bin/Debug/net7.0/FluentValidation.dll
