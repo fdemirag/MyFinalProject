@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9JBFRWzh+ilx5HKguNTooBClDh3ZV93quQSS1QgnZbCMOg7V1Bf0J7ybHV3ykg9Aj7UJHzoQIFUhjtYTdmPTUQ==",
+  "dgSpecHash": "H2bFEQq+x2BuYV6mpA08P7IrKRUbL/9fcKZ5A4RxtRQx5CGZwLF06qCdW8ievlVvcdrz11uymrGtt2VA3PjyqA==",
   "success": true,
   "projectFilePath": "/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/Business/Business.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "/Users/fatihdemirag/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/fatihdemirag/.nuget/packages/fluentvalidation/11.5.0/fluentvalidation.11.5.0.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/microsoft.data.sqlclient/5.1.1/microsoft.data.sqlclient.5.1.1.nupkg.sha512",

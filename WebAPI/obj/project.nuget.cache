@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OPFHQ/7sLBn1EzmqzVwr5cr6paPExJMQ3dmI2qPYCuUAMcdLVNb5MSd20TCvWPSuIn9Fgt5rQV0UQmRNz/Uhow==",
+  "dgSpecHash": "konPz+8AObZlH7ELaZ3iCyMga/k991Y3dpvcM+qHKmoAERJU/4L6DC7uIBcS7p9VMvfgag/I9mApGIntCVMTTg==",
   "success": true,
   "projectFilePath": "/Users/fatihdemirag/Desktop/CSharp/MyFinalProject/WebAPI/WebAPI.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "/Users/fatihdemirag/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/fatihdemirag/.nuget/packages/fluentvalidation/11.5.0/fluentvalidation.11.5.0.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/fatihdemirag/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
