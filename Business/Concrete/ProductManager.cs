@@ -24,22 +24,18 @@ namespace Business.Concrete
         [ValidationAspect(typeof(ProductValidator))]
         public IResult Add(Product product)
         {
-            ValidationTool.Validate(new ProductValidator(), product);
+            if (CheckIfProductCountOfCategoryCorrect(product.CategoryId).Success)
+            {
+                if (CheckIfProductNameExists(product.ProductName).Success)
+                {
+                    _productDal.Add(product);
+                    return new SuccessResult(Messages.ProductAdded);
+                }
+               
 
-            _productDal.Add(product);
-            return new SuccessResult(Messages.ProductAdded);
+            }
+            return new ErrorResult();
         }
-
-        //public IResult Add(Product product)
-        //{
-        //    if (product.ProductName == null || product.ProductName.Length<1)
-        //    {
-        //        return new ErrorResult(Messages.ProductNameInvalid);
-        //    }
-
-        //    _productDal.Add(product);
-        //    return new SuccessResult(Messages.ProductAdded);
-        //}
 
         public IDataResult<List<Product>> getAll()
             { 
@@ -72,6 +68,32 @@ namespace Business.Concrete
         {
             return new SuccessDataResult<List<ProductDetailDto>>(_productDal.GetProductDetails());
         }
+
+        public IResult Update(Product product)
+        {
+            throw new NotImplementedException();
+        }
+
+        private IResult CheckIfProductCountOfCategoryCorrect(int categoryId)
+        {
+            var result = _productDal.GetAll(p => p.CategoryId == categoryId).Count;
+            if (result>=15)
+            {
+                return new ErrorResult(Messages.ProductCountOfCategoryError);
+            }
+            return new SuccessResult();
+        }
+
+        private IResult CheckIfProductNameExists(string productName)
+        {
+            var result = _productDal.GetAll(p => p.ProductName == productName);// .Any kullanımı dbde olup olmadığını kontrol ediyor.
+            if (result == null)
+            {
+                return new ErrorResult(Messages.ProductNameAlreadyExists);
+            }
+            return new SuccessResult();
+        }
     }
+  
 }
 
